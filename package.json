@@ -1,0 +1,21 @@
+{
+  "name": "java-script-lab",
+  "version": "1.0.0",
+  "description": "City weather information application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "ES6"
+  ],
+  "author": "Abhay Banda",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
